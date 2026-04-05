@@ -1,0 +1,4 @@
+# Preserve CRLF line endings for original Atari ST files
+src/*.S binary
+game/* binary
+misc/TURBOST-Original.S binary
